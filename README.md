@@ -5,9 +5,11 @@
 
 
 
-For More Details About CUMULO and LightGBM, please visit it.
+## Bölüm Numarası Ver Buraya : For More Details About CUMULO and LightGBM, please visit it.
 
-[a link](https://github.com/FrontierDevelopmentLab/CUMULO)
+[For CUMULO Github repository](https://github.com/FrontierDevelopmentLab/CUMULO)
+[For CUMULO: A Dataset for Learning Cloud Classification](https://arxiv.org/abs/1911.04227)
+[For LightGBM’s Documentation ](https://lightgbm.readthedocs.io/en/latest/index.html)
 
 ## 1. 
 
