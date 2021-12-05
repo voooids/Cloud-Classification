@@ -8,7 +8,7 @@
 ## X : For More Details About CUMULO and LightGBM, please visit it.
 
 
-[For CUMULO Github repository](https://github.com/FrontierDevelopmentLab/CUMULO)
+[For CUMULO Github Repository](https://github.com/FrontierDevelopmentLab/CUMULO)
 
 [For CUMULO: A Dataset for Learning Cloud Classification](https://arxiv.org/abs/1911.04227)
 
