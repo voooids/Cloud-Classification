@@ -4,7 +4,7 @@
 
 ## Part 1. Introduction
 
-### 1.1 : About Datasets.
+### 1.1 : About Dataset.
 In this project, we used the CUMULO comparative datasets. In this project, we used the CUMULO comparative datasets. This dataset consists of one-year 1km resolution MODIS hyperspectral images combined with pixel-width 'traces' of CloudSat cloud tags. Bringing these complementary datasets together is a crucial first step that enables the Machine Learning community to develop innovative new techniques that can greatly benefit the Climate community.
 
 
