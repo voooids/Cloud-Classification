@@ -55,4 +55,8 @@ In this project, LightGBM algorithm, which is a gradient boosting method using t
 [For LightGBM’s Documentation ](https://lightgbm.readthedocs.io/en/latest/index.html)
 
 
+# Part 3.License
+This work is licensed under a MIT License.
+
+
   
