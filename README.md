@@ -2,8 +2,7 @@
 # Cloud-Classification
 -------
 
-Denemedir..
-
+## Part 1. Introduction
 
 
 
