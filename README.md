@@ -4,21 +4,32 @@
 
 ## Part 1. Introduction
 
-### 1.1. : About Dataset.
+### 1.1. : The Goal of the Project
+
+
+
+### 1.2. : About Dataset.
 In this project, we used the CUMULO comparative datasets. This dataset consists of one-year 1km resolution MODIS hyperspectral images combined with pixel-width 'traces' of CloudSat cloud tags. Bringing these complementary datasets together is a crucial first step that enables the Machine Learning community to develop innovative new techniques that can greatly benefit the Climate community. Our dataset has cloud layers. Cloud tier types are classified as follows:
 
-0 - Cirrus
-1 - Altostratus
-2 - Altocumulus
-3 - Stratus
-4 - Stratocumulus
-5 - Cumulus
-6 - Nimbostratus
-7 - Deep Convection
+* 0 - Cirrus
+
+* 1 - Altostratus
+
+* 2 - Altocumulus
+
+* 3 - Stratus
+
+* 4 - Stratocumulus
+
+* 5 - Cumulus
+
+* 6 - Nimbostratus
+
+* 7 - Deep Convection
 
 
-### 1.2. : About Algorithms
-In this project, LightGBM algorithm, which is a gradient boosting method using tree-based learning algorithms, was used.
+### 1.3. : About Algorithm
+In this project, LightGBM algorithm, which is a gradient boosting method using tree-based learning algorithms, was used. The most important reason for using this algorithm is that it is computationally efficient and provides high-accuracy models. For more details about the algorithm and dataset, please visit **Part X.**
 
 
 
