@@ -59,4 +59,8 @@ In this project, LightGBM algorithm, which is a gradient boosting method using t
 This work is licensed under a MIT License.
 
 
+
+      **NOTE :** This project was created using the AI for Earth Monitoring course.
+                        void.
+
   
